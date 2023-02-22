@@ -20,10 +20,10 @@ I'm interested in automating and refactoring repetitive processes.
   <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apache-Kafka&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white">  <br>
-  <img src="https://img.shields.io/badge/codedeploy-6DB33F?style=flat-square&logo=AmazonAWS&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=Amazon-RDS&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/AWS codedeploy-6DB33F?style=flat-square&logo=AmazonAWS&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon-RDS&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"> <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 
 </p>  
