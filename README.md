@@ -37,7 +37,7 @@ I'm interested in automating and refactoring repetitive processes.
   
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=black"/>
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon-RDS&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS codedeploy-6DB33F?style=flat-square&logo=AmazonAWS&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/AWS codedeploy-6DB33F?style=flat-square&logo=AmazonAWS&logoColor=white"> -->
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white">
   <!--   <br> -->
 </p>
