@@ -13,12 +13,18 @@ I'm interested in automating and refactoring repetitive processes.
 ### ✍🏻 Stacks
 <!-- <p align="center"> -->
 
-#### **Launguages and Frameworks**
+#### **Launguages**
 <p>
   <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-boot&logoColor=white"/> 
+  <img src="style=flat-square&logo=Spring-boot&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/kotlin-8B00FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
+<!--   <br>  -->
+</p>
+
+#### **Launguages**
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-boot&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Android Studio-32DE84?style=flat-square&logo=Android&logoColor=white"/> 
 <!--   <br>  -->
 </p>
@@ -27,8 +33,8 @@ I'm interested in automating and refactoring repetitive processes.
 <p>
   <img src="https://img.shields.io/badge/MySQL-2088FF?style=flat-square&logo=MySQL&logoColor=white"/> 
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-BF0000.svg?style=flat-square&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-%23DD0031.svg?style=flat-square&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-BF0000.svg?style=flat-square&logo=redis&logoColor=white">
 <!--   <br>   -->
 </p>
 
