@@ -18,6 +18,7 @@ I'm interested in automating and refactoring repetitive processes.
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-boot&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/kotlin-DA197D?style=flat-square&logo=Kotlin&logoColor=white"/> 
 <!--   <br>  -->
 </p>
 
@@ -26,6 +27,7 @@ I'm interested in automating and refactoring repetitive processes.
   <img src="https://img.shields.io/badge/MySQL-2088FF?style=flat-square&logo=MySQL&logoColor=white"/> 
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-%23DD0031.svg?style=flat-square&logo=oracle&logoColor=white">
 <!--   <br>   -->
 </p>
 
