@@ -15,8 +15,7 @@ I'm interested in automating and refactoring repetitive processes.
 
 #### **Launguages**
 <p>
-  <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="style=flat-square&logo=Spring-boot&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Java-3A9BDC.svg?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/kotlin-8B00FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
 <!--   <br>  -->
