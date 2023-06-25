@@ -27,7 +27,7 @@ I'm interested in automating and refactoring repetitive processes.
 <p>
   <img src="https://img.shields.io/badge/MySQL-2088FF?style=flat-square&logo=MySQL&logoColor=white"/> 
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-8F0000.svg?style=flat-square&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-%23DD0031.svg?style=flat-square&logo=oracle&logoColor=white">
 <!--   <br>   -->
 </p>
