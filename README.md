@@ -21,10 +21,10 @@ I'm interested in automating and refactoring repetitive processes.
 <!--   <br>  -->
 </p>
 
-#### **Launguages**
+#### **Frameworks**
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-boot&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Android Studio-32DE84?style=flat-square&logo=Android&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Android-32DE84?style=flat-square&logo=Android&logoColor=white"/> 
 <!--   <br>  -->
 </p>
 
